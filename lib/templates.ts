@@ -16,12 +16,12 @@ export const templates = [
     colour: yellow,
     variants: [
       {
-        name: "basics",
+        name: "js-basics",
         display: "JavaScript",
         colour: yellow,
       },
       {
-        name: "basics-ts",
+        name: "ts-basics",
         display: "TypeScript",
         colour: blue,
       },
