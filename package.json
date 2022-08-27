@@ -1,0 +1,45 @@
+{
+  "name": "create-astro-app",
+  "version": "1.0.0",
+  "description": "CLI to create an Astro Application.",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "yarn build && node src/index.js",
+    "lint": "eslint src --ext ts && prettier --check .",
+    "lint:fix": "eslint src --ext ts --fix && prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harry-Hopkinson/create-solid-app.git"
+  },
+  "keywords": [
+    "create-astro",
+    "cli",
+    "astro",
+    "astro",
+    "code-generation",
+    "boilerplate"
+  ],
+  "author": "harry-hopkinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Harry-Hopkinson/create-solid-app/issues"
+  },
+  "dependencies": {
+    "kolorist": "^1.5.1",
+    "minimist": "^1.2.6",
+    "prompts": "^2.4.2"
+  },
+  "homepage": "https://github.com/Harry-Hopkinson/create-solid-app#readme",
+  "devDependencies": {
+    "@types/node": "18.6.1",
+    "@typescript-eslint/eslint-plugin": "5.31.0",
+    "@typescript-eslint/parser": "5.31.0",
+    "eslint": "8.20.0",
+    "eslint-plugin-unused-imports": "2.0.0",
+    "prettier": "2.7.1",
+    "typescript": "4.7.4"
+  }
+}
