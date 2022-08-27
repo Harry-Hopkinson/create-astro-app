@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Harry-Hopkinson/create-solid-app.git"
+    "url": "git+https://github.com/Harry-Hopkinson/create-astro-app.git"
   },
   "keywords": [
     "create-astro",
@@ -25,14 +25,14 @@
   "author": "harry-hopkinson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Harry-Hopkinson/create-solid-app/issues"
+    "url": "https://github.com/Harry-Hopkinson/create-astro-app/issues"
   },
   "dependencies": {
     "kolorist": "^1.5.1",
     "minimist": "^1.2.6",
     "prompts": "^2.4.2"
   },
-  "homepage": "https://github.com/Harry-Hopkinson/create-solid-app#readme",
+  "homepage": "https://github.com/Harry-Hopkinson/create-astro-app#readme",
   "devDependencies": {
     "@types/node": "18.6.1",
     "@typescript-eslint/eslint-plugin": "5.31.0",

@@ -3,7 +3,7 @@
 ## Clone the Github Repostiory
 
 ```properties
-git clone https://github.com/Harry-Hopkinson/create-solid-app
+git clone https://github.com/Harry-Hopkinson/create-astro-app
 ```
 
 ## Install the Dependencies
