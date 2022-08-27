@@ -27,6 +27,22 @@ export const templates = [
       },
     ],
   },
+  {
+    name: "react",
+    colour: lightCyan,
+    variants: [
+      {
+        name: "js-react",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-react",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
 ];
 
 export const TEMPLATES = templates

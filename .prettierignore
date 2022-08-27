@@ -1,0 +1,12 @@
+src/template-js-basics
+src/template-ts-basics
+src/template-js-react
+src/template-ts-react
+templates
+
+dist
+src/index.js
+lib/templates.js
+lib/packageName.js
+lib/pkg.js
+lib/templates.js
