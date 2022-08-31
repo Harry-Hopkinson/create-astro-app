@@ -2,6 +2,8 @@ src/template-js-basics
 src/template-ts-basics
 src/template-js-react
 src/template-ts-react
+src/template-js-blog
+src/template-ts-blog
 templates
 
 dist
