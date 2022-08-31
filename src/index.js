@@ -19,6 +19,7 @@ async function createApp() {
     let template = argv.template || argv.t;
     const defaultProjectName = !targetDir ? "astro-application" : targetDir;
     let result = {};
+    console.log(red("This project is still under development.\nExpect many more templates to be added soon.\n"));
     try {
         result = await prompts([
             {

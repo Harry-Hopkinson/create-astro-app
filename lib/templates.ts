@@ -43,6 +43,22 @@ export const templates = [
       },
     ],
   },
+  {
+    name: "blog",
+    colour: gray,
+    variants: [
+      {
+        name: "js-blog",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-blog",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
 ];
 
 export const TEMPLATES = templates

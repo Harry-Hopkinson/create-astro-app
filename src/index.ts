@@ -20,6 +20,12 @@ async function createApp() {
 
   let result = {};
 
+  console.log(
+    red(
+      "This project is still under development.\nExpect many more templates to be added soon.\n",
+    ),
+  );
+
   try {
     result = await prompts(
       [
