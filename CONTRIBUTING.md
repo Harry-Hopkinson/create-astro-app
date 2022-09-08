@@ -33,3 +33,9 @@ yarn build && yarn start
 ```properties
 npm run build && npm run start
 ```
+
+## Clone the Templates
+
+```properties
+git clone https://github.com/Harry-Hopkinson/templates.git
+```

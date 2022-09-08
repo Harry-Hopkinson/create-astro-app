@@ -59,6 +59,22 @@ export const templates = [
       },
     ],
   },
+  {
+    name: "docs",
+    colour: lightMagenta,
+    variants: [
+      {
+        name: "js-docs",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-docs",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
 ];
 
 export const TEMPLATES = templates

@@ -4,6 +4,8 @@ src/template-js-react
 src/template-ts-react
 src/template-js-blog
 src/template-ts-blog
+src/template-js-docs
+src/template-ts-docs
 templates
 
 dist
