@@ -8,6 +8,8 @@ src/template-js-docs
 src/template-ts-docs
 src/template-js-vue
 src/template-ts-vue
+src/template-js-alpine
+src/template-ts-alpine
 templates
 
 dist

@@ -1,5 +1,6 @@
 import {
   green,
+  lightBlue,
   magenta,
   lightRed,
   lightCyan,
@@ -86,6 +87,22 @@ export const templates = [
       },
       {
         name: "ts-vue",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
+  {
+    name: "alpine",
+    colour: lightBlue,
+    variants: [
+      {
+        name: "js-alpine",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-alpine",
         display: "TypeScript",
         colour: blue,
       },
