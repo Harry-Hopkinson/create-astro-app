@@ -6,6 +6,8 @@ src/template-js-blog
 src/template-ts-blog
 src/template-js-docs
 src/template-ts-docs
+src/template-js-vue
+src/template-ts-vue
 templates
 
 dist

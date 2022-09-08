@@ -75,6 +75,22 @@ export const templates = [
       },
     ],
   },
+  {
+    name: "vue",
+    colour: green,
+    variants: [
+      {
+        name: "js-vue",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-vue",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
 ];
 
 export const TEMPLATES = templates
