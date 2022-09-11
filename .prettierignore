@@ -10,6 +10,8 @@ src/template-js-vue
 src/template-ts-vue
 src/template-js-alpine
 src/template-ts-alpine
+src/template-js-svelte
+src/template-ts-svelte
 templates
 
 dist

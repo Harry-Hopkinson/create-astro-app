@@ -108,6 +108,22 @@ export const templates = [
       },
     ],
   },
+  {
+    name: "svelte",
+    colour: yellow,
+    variants: [
+      {
+        name: "js-svelte",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-svelte",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
 ];
 
 export const TEMPLATES = templates
