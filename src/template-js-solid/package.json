@@ -1,5 +1,5 @@
 {
-  "name": "@example/framework-svelte",
+  "name": "@example/framework-solid",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -10,10 +10,10 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "@astrojs/svelte": "1.0.0",
+    "@astrojs/solid-js": "1.1.0",
     "astro": "1.2.1"
   },
   "dependencies": {
-    "svelte": "3.50.1"
+    "solid-js": "1.5.4"
   }
 }
