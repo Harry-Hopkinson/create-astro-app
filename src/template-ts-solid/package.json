@@ -1,0 +1,19 @@
+{
+  "name": "@example/framework-solid",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "devDependencies": {
+    "@astrojs/solid-js": "^1.1.0",
+    "astro": "^1.1.1"
+  },
+  "dependencies": {
+    "solid-js": "^1.4.3"
+  }
+}

@@ -124,6 +124,22 @@ export const templates = [
       },
     ],
   },
+  {
+    name: "solid",
+    colour: blue,
+    variants: [
+      {
+        name: "js-solid",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-solid",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
 ];
 
 export const TEMPLATES = templates
