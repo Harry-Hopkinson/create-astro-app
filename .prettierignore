@@ -14,6 +14,8 @@ src/template-js-svelte
 src/template-ts-svelte
 src/template-js-solid
 src/template-ts-solid
+src/template-js-tailwind
+src/template-ts-tailwind
 templates
 
 dist

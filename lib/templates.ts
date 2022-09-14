@@ -140,6 +140,22 @@ export const templates = [
       },
     ],
   },
+  {
+    name: "tailwind",
+    colour: magenta,
+    variants: [
+      {
+        name: "js-tailwind",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-tailwind",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
 ];
 
 export const TEMPLATES = templates
