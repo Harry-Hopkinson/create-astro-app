@@ -16,6 +16,8 @@ src/template-js-solid
 src/template-ts-solid
 src/template-js-tailwind
 src/template-ts-tailwind
+src/template-js-mdx
+src/template-ts-mdx
 templates
 
 dist

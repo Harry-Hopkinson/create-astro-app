@@ -156,6 +156,22 @@ export const templates = [
       },
     ],
   },
+  {
+    name: "mdx",
+    colour: yellow,
+    variants: [
+      {
+        name: "js-mdx",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-mdx",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
 ];
 
 export const TEMPLATES = templates
