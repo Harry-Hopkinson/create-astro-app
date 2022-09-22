@@ -172,6 +172,22 @@ export const templates = [
       },
     ],
   },
+  {
+    name: "portfolio",
+    colour: lightRed,
+    variants: [
+      {
+        name: "js-portfolio",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-portfolio",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
 ];
 
 export const TEMPLATES = templates

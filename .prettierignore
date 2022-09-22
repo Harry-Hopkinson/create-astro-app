@@ -18,6 +18,8 @@ src/template-js-tailwind
 src/template-ts-tailwind
 src/template-js-mdx
 src/template-ts-mdx
+src/template-js-portfolio
+src/template-ts-portfolio
 templates
 
 dist
