@@ -20,6 +20,10 @@ src/template-js-mdx
 src/template-ts-mdx
 src/template-js-portfolio
 src/template-ts-portfolio
+src/template-js-vite
+src/template-ts-vite
+src/template-js-vitest
+src/template-ts-vitest
 templates
 
 dist
