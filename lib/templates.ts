@@ -188,6 +188,38 @@ export const templates = [
       },
     ],
   },
+  {
+    name: "vite",
+    colour: yellow,
+    variants: [
+      {
+        name: "js-vite",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-vite",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
+  {
+    name: "vitest",
+    colour: white,
+    variants: [
+      {
+        name: "js-vitest",
+        display: "JavaScript",
+        colour: yellow,
+      },
+      {
+        name: "ts-vitest",
+        display: "TypeScript",
+        colour: blue,
+      },
+    ],
+  },
 ];
 
 export const TEMPLATES = templates

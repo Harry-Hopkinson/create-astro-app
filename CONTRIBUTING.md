@@ -4,6 +4,8 @@
 
 ```properties
 git clone https://github.com/Harry-Hopkinson/create-astro-app
+cd create-astro-app
+git clone https://github.com/Harry-Hopkinson/templates.git
 ```
 
 ## Install the Dependencies
@@ -32,10 +34,4 @@ yarn build && yarn start
 
 ```properties
 npm run build && npm run start
-```
-
-## Clone the Templates
-
-```properties
-git clone https://github.com/Harry-Hopkinson/templates.git
 ```

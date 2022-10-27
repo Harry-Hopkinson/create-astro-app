@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.copyDir = void 0;
@@ -19,7 +18,6 @@ async function createApp() {
     let template = argv.template || argv.t;
     const defaultProjectName = !targetDir ? "astro-application" : targetDir;
     let result = {};
-    console.log(red("This project is still under development.\nExpect many more templates to be added soon.\n"));
     try {
         result = await prompts([
             {
