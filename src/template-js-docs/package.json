@@ -13,7 +13,7 @@
     "@algolia/client-search": "4.14.2",
     "@docsearch/css": "3.2.1",
     "@docsearch/react": "3.2.1",
-    "preact": "10.11.0",
+    "preact": "10.11.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
