@@ -13,6 +13,6 @@
   },
   "devDependencies": {
     "astro": "^1.1.1",
-    "vitest": "^0.20.3"
+    "vitest": "^0.24.0"
   }
 }
