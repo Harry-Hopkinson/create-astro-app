@@ -13,6 +13,6 @@
     "@astrojs/mdx": "0.11.6",
     "@astrojs/preact": "1.2.0",
     "astro": "1.6.9",
-    "preact": "10.11.2"
+    "preact": "10.11.3"
   }
 }
