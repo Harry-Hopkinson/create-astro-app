@@ -21,6 +21,6 @@
   "devDependencies": {
     "@astrojs/preact": "1.2.0",
     "@astrojs/react": "1.2.2",
-    "astro": "1.6.14"
+    "astro": "1.6.15"
   }
 }
