@@ -14,6 +14,6 @@
     "astro": "1.7.2"
   },
   "dependencies": {
-    "solid-js": "1.6.5"
+    "solid-js": "1.6.6"
   }
 }
