@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@astrojs/solid-js": "2.0.1",
-    "astro": "2.0.2"
+    "astro": "2.0.5"
   },
   "dependencies": {
     "solid-js": "1.6.10"
