@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "@astrojs/solid-js": "2.0.1",
+    "@astrojs/solid-js": "2.0.2",
     "astro": "2.0.5"
   },
   "dependencies": {
