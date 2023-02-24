@@ -13,6 +13,6 @@
     "@astrojs/mdx": "0.17.2",
     "@astrojs/rss": "2.1.1",
     "@astrojs/sitemap": "1.0.1",
-    "astro": "2.0.14"
+    "astro": "2.0.15"
   }
 }
