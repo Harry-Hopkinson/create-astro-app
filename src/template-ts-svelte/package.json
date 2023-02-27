@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@astrojs/svelte": "2.0.2",
-    "astro": "2.0.15"
+    "astro": "2.0.16"
   },
   "dependencies": {
     "svelte": "3.55.1"
