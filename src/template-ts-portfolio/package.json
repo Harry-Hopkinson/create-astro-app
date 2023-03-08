@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "@astrojs/preact": "2.0.3",
+    "@astrojs/preact": "2.1.0",
     "astro": "2.0.18",
     "sass": "1.58.3"
   },
