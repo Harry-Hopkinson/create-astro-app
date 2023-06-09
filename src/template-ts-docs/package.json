@@ -12,7 +12,7 @@
   "dependencies": {
     "@algolia/client-search": "4.17.2",
     "@docsearch/css": "3.5.0",
-    "@docsearch/react": "3.4.0",
+    "@docsearch/react": "3.5.0",
     "@types/react": "18.2.9",
     "preact": "10.15.1",
     "react": "18.2.0",
