@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@algolia/client-search": "4.18.0",
+    "@algolia/client-search": "4.19.0",
     "@docsearch/css": "3.5.1",
     "@docsearch/react": "3.5.1",
     "preact": "10.16.0",
