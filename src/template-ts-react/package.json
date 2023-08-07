@@ -13,7 +13,7 @@
     "@astrojs/react": "2.2.1",
     "@types/react": "18.2.18",
     "@types/react-dom": "18.2.7",
-    "astro": "2.10.1"
+    "astro": "2.10.3"
   },
   "dependencies": {
     "react": "18.2.0",
