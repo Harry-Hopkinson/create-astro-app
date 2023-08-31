@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "@astrojs/svelte": "3.1.1",
+    "@astrojs/svelte": "4.0.0",
     "astro": "2.10.15"
   },
   "dependencies": {
