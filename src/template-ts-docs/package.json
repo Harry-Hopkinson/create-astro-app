@@ -14,7 +14,7 @@
     "@docsearch/css": "3.5.2",
     "@docsearch/react": "3.5.2",
     "@types/react": "18.2.23",
-    "preact": "10.17.1",
+    "preact": "10.18.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
