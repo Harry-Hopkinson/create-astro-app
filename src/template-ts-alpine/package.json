@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "@astrojs/alpinejs": "0.3.0",
+    "@astrojs/alpinejs": "0.3.1",
     "@types/alpinejs": "3.13.2",
     "alpinejs": "3.13.1",
     "astro": "3.2.2"
