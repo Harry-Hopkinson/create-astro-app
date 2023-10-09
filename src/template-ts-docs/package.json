@@ -13,7 +13,7 @@
     "@algolia/client-search": "4.20.0",
     "@docsearch/css": "3.5.2",
     "@docsearch/react": "3.5.2",
-    "@types/react": "18.2.25",
+    "@types/react": "18.2.27",
     "preact": "10.18.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
