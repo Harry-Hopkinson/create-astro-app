@@ -34,7 +34,7 @@
     "prompts": "^2.4.2"
   },
   "devDependencies": {
-    "@types/node": "18.18.4",
+    "@types/node": "18.18.5",
     "prettier": "3.0.3",
     "typescript": "5.2.2"
   }
