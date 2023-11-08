@@ -10,7 +10,7 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "@astrojs/vue": "3.0.3",
+    "@astrojs/vue": "3.0.4",
     "astro": "3.4.3"
   },
   "dependencies": {
