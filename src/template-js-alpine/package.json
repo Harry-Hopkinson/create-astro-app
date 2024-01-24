@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@astrojs/alpinejs": "0.3.2",
-    "alpinejs": "3.13.4",
+    "alpinejs": "3.13.5",
     "astro": "4.2.4"
   },
   "dependencies": {}
