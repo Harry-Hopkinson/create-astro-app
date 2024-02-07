@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "@astrojs/preact": "3.1.0",
-    "@astrojs/react": "3.0.9",
+    "@astrojs/react": "3.0.10",
     "astro": "4.3.3"
   }
 }
