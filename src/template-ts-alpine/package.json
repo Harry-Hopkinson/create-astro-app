@@ -13,7 +13,7 @@
     "@astrojs/alpinejs": "0.4.0",
     "@types/alpinejs": "3.13.6",
     "alpinejs": "3.13.5",
-    "astro": "4.4.1"
+    "astro": "4.4.2"
   },
   "dependencies": {}
 }
