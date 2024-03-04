@@ -10,6 +10,6 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "astro": "4.4.10"
+    "astro": "4.4.11"
   }
 }
