@@ -12,7 +12,7 @@
   "devDependencies": {
     "@astrojs/mdx": "2.2.2",
     "@astrojs/rss": "4.0.5",
-    "@astrojs/sitemap": "3.1.1",
+    "@astrojs/sitemap": "3.1.2",
     "astro": "4.5.9"
   }
 }
