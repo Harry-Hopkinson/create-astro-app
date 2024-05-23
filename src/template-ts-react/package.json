@@ -10,10 +10,10 @@
     "astro": "astro"
   },
   "devDependencies": {
-    "@astrojs/react": "3.3.4",
+    "@astrojs/react": "3.4.0",
     "@types/react": "18.3.2",
     "@types/react-dom": "18.3.0",
-    "astro": "4.8.7"
+    "astro": "4.9.0"
   },
   "dependencies": {
     "react": "18.3.1",
