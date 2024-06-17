@@ -19,8 +19,8 @@
     "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@astrojs/preact": "3.4.0",
-    "@astrojs/react": "3.5.0",
-    "astro": "4.10.2"
+    "@astrojs/preact": "3.5.0",
+    "@astrojs/react": "3.6.0",
+    "astro": "4.10.3"
   }
 }
