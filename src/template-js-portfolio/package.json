@@ -15,6 +15,6 @@
     "sass": "1.79.3"
   },
   "dependencies": {
-    "preact": "10.24.0"
+    "preact": "10.24.1"
   }
 }
