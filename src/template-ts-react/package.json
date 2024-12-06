@@ -11,8 +11,8 @@
   },
   "devDependencies": {
     "@astrojs/react": "4.0.0",
-    "@types/react": "19.0.0",
-    "@types/react-dom": "19.0.0",
+    "@types/react": "19.0.1",
+    "@types/react-dom": "19.0.1",
     "astro": "5.0.3"
   },
   "dependencies": {
