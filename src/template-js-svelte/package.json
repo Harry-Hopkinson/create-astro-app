@@ -14,6 +14,6 @@
     "astro": "5.0.5"
   },
   "dependencies": {
-    "svelte": "5.10.1"
+    "svelte": "5.11.2"
   }
 }
