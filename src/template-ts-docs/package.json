@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@algolia/client-search": "5.17.1",
-    "@docsearch/css": "3.8.0",
+    "@docsearch/css": "3.8.1",
     "@docsearch/react": "3.8.0",
     "@types/react": "19.0.1",
     "preact": "10.25.2",
