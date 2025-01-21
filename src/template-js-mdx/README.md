@@ -4,6 +4,8 @@
 npm init astro -- --template with-mdx
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/with-mdx)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/with-mdx) 
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/withastro/astro/tree/latest/examples/with-md)
 
 This example showcases using [`@astrojs/mdx`](https://www.npmjs.com/package/@astrojs/mdx) to author content using [MDX](https://mdxjs.com/).
